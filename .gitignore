@@ -4,3 +4,4 @@ csvs/
 sc.py
 *.ipynb
 env/
+.DS_Store
