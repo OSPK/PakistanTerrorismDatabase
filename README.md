@@ -1,7 +1,6 @@
-# Database of all terror incidents in Pakistan from Sep 2001 to Dec 2020.
+### Database of all terror incidents in Pakistan from Sep 2001 to Dec 2020.
 
-### Datat includes columns:
-- ID - UMD incident id
+#### Data includes columns:
 - DATE - Date of the incident
 - COUNTRY - Pakistan
 - CITY - City of the incident
