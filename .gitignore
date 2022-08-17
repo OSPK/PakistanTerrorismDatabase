@@ -1,0 +1,6 @@
+csvs/
+.vscode/
+.ipynd_checkpoints
+sc.py
+*.ipynb
+env/
